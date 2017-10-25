@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## QuickSwitch Simple Intro Page 
 
-You can use the [editor on GitHub](https://github.com/QuickSwitch/QuickSwitch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi I'm Jake, an extremely motivated web developer and process automation enthusiast. 
+Let's talk! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Skillset
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Real Time Web Applications with Node.js
+Natural Language Processing with NLTK 
+Data Science with Python3,Pandas,SciPy
+Simple Web Page Deployment with Jekyll/Github
+Automated Marketing Systems
 
 ```markdown
 Syntax highlighted code block
